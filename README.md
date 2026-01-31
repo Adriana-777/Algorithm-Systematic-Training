@@ -1,2 +1,13 @@
-# Algorithm-Systematic-Training
-Log of self learning path
+
+# Quant Dev Systematic Training
+
+本项目用于记录 2026 年从零构建量化开发体系的过程。
+主要涵盖：高性能数据结构、算法、以及交易系统组件的底层实现。
+
+## 核心理念
+- 理解算法在不同数据规模下的性能表现。
+- **对齐底层逻辑**：拒绝黑盒调用，坚持手动实现核心组件。
+
+## 目录结构
+- `/Daily_Practice`: 每日核心逻辑对齐练习
+- `/LeetCode_Logic`: 针对性的算法题解与复杂度分析
